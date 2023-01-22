@@ -28,3 +28,8 @@ Projects from my learning courses
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/model.png">
   <img alt="MEL" src="https://github.com/KaraVVI/GraduationProject/blob/main/model.png">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/metrics.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/metrics.png">
+  <img alt="MEL" src="https://github.com/KaraVVI/GraduationProject/blob/main/metrics.png">
+</picture>
