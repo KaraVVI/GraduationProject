@@ -6,6 +6,12 @@ Projects from my learning courses
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/amplitude.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/amplitude.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/KaraVVI/GraduationProject/blob/main/amplitude.png">
+  <img alt="Amplitude" src="https://github.com/KaraVVI/GraduationProject/blob/main/amplitude.png">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/MEL-spec.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/MEL-spec.png">
+  <img alt="MEL" src="https://github.com/KaraVVI/GraduationProject/blob/main/MEL-spec.png">
+</picture>
+
 #### Predict on Convolutional Neural Network by pytorch
