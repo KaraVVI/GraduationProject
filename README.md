@@ -1,4 +1,4 @@
-# Graduation Project - Determination of gender and age by audio recordings
+# Graduation Project - Prediction of gender and age by audiorecord
 Projects from my learning courses
 ### Perfermed tasks:
 #### Parce TIMIT dataset by timit_utils library
