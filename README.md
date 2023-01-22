@@ -21,3 +21,8 @@ Projects from my learning courses
 </picture>
 
 #### Predict on Convolutional Neural Network by pytorch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/model.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/model.png">
+  <img alt="MEL" src="https://github.com/KaraVVI/GraduationProject/blob/main/model.png">
+</picture>
