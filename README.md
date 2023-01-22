@@ -7,6 +7,7 @@ Projects from my learning courses
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/timit_utils.png">
   <img alt="Amplitude" src="https://github.com/KaraVVI/GraduationProject/blob/main/timit_utils.png">
 </picture>
+> [timit_utils](https://github.com/colinator/timit_utils) on GitHub
 
 #### Transform amplitude to MEL-spectrogram by librosa
 <picture>
