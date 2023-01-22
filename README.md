@@ -2,6 +2,12 @@
 Projects from my learning courses
 ### Perfermed tasks:
 #### Parce TIMIT dataset by timit_utils library
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/timit_utils.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/timit_utils.png">
+  <img alt="Amplitude" src="https://github.com/KaraVVI/GraduationProject/blob/main/timit_utils.png">
+</picture>
+
 #### Transform amplitude to MEL-spectrogram by librosa
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KaraVVI/GraduationProject/blob/main/amplitude.png">
